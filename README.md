@@ -1,7 +1,7 @@
-## Hello, Edward Mwai here..
+## Hello, Edward here..
 
 Welcome to my page!! 
-I am a fullstack developer in Nairobi, Kenya.
+I am a fullstack developer in **Nairobi, Kenya.**
 
 ### My backend toolbox.
 
