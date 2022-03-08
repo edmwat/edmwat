@@ -6,7 +6,7 @@ I am a fullstack developer in **Nairobi, Kenya.**
 ### My backend toolbox.
 
 - Java
-  - Spring framework, springboot,
+  - Spring framework, spring boot, spring security, spring dataJPA, spring cloud
 
 - C#
   - ASP.NET
@@ -24,6 +24,9 @@ I am a fullstack developer in **Nairobi, Kenya.**
 - Javascript
 
 - HTML, CSS
+
+### Software Architecture
+- Microservices
 
 ### ORM Frameworks
 
